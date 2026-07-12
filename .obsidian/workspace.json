@@ -11,14 +11,12 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week-03-05-Signal-Integrity.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Large_noise_Small_signal.png"
               },
-              "icon": "lucide-file",
-              "title": "Week-03-05-Signal-Integrity"
+              "icon": "lucide-image",
+              "title": "Large_noise_Small_signal"
             }
           }
         ]
@@ -205,21 +203,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "914d1bc10e559287",
+  "active": "71230346fe056fc1",
   "lastOpenFiles": [
-    "Gemini_Generated_Image_szz5olszz5olszz5.png",
-    "Gemini_Generated_Image_d242skd242skd242.png",
-    "Gemini_Generated_Image_8k5628k5628k5628.png",
-    "Gemini_Generated_Image_9lfe009lfe009lfe.png",
-    "Gemini_Generated_Image_1sankn1sankn1san.png",
-    "Gemini_Generated_Image_iurik6iurik6iuri.png",
-    "Week-03-04-Sensor-vs-Transducer.md",
+    "Images/Good_Signal_Before_ADC.png",
+    "Images/ADC_Limitation.png",
+    "Images/Small_Signal_Larger_noise.png",
     "Week-03-05-Signal-Integrity.md",
-    "Images/Output_Transducers.png",
-    "Images/Input_Transducers.png",
-    "Images/Transducer_characteristics.png",
-    "Images/Example_of_Sensors.png",
-    "Images/Sensor_vs_Transducer.png",
+    "Images/Large_noise_Small_signal.png",
+    "Images/Sensor_Stage.png",
+    "Images/Demage_Signal_Integrity.png",
+    "Images/Crosstalk.png",
+    "Images/Ground_Loop.png",
+    "Images/Voltage_Drop.png",
+    "Images/Source_of_Noise.png",
+    "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-01_Physical_World.md",

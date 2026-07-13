@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3a4b9c2c208701",
+        "id": "fc1558a0c4733073",
         "type": "tabs",
         "children": [
           {
-            "id": "914d1bc10e559287",
+            "id": "3fc231d3d579f7ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03.md",
+                "file": "67030323/Report/Week-03-Lab-sheet-03-LDR-and-calibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03"
-            }
-          },
-          {
-            "id": "173d637a198a58c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "67030323/Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Report"
+              "title": "Week-03-Lab-sheet-03-LDR-and-calibration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,18 +205,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "173d637a198a58c5",
+  "active": "71230346fe056fc1",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "67030323/Report",
     "67030323/Report.md",
+    "67030323/Report/Week-03-Lab-sheet-03-LDR-and-calibration.md",
+    "LDR/build/log/idf_py_stdout_output_28932",
+    "LDR/build/log/idf_py_stderr_output_28932",
+    "LDR/build/log/idf_py_stdout_output_18788",
+    "LDR/build/log/idf_py_stderr_output_18788",
+    "LDR/build/CMakeFiles/LDR.elf.rsp",
+    "LDR/build/esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj.d",
+    "LDR/build/log/idf_py_stdout_output_13580",
+    "LDR/build/log/idf_py_stderr_output_13580",
+    "LDR/build/log/idf_py_stdout_output_35892",
+    "LDR/build/log/idf_py_stderr_output_35892",
     "Week-03.md",
-    "67030323",
+    "Untitled.canvas",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03-05-Signal-Integrity.md",
-    "Week-03-Lab-sheet-03-LDR-and-calibration.md",
     "README.md",
     "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",

@@ -1,0 +1,38 @@
+# =========================
+# ESP-IDF Specific
+# =========================
+# ข้ามโฟลเดอร์ build เพราะไฟล์มีขนาดใหญ่และสร้างใหม่ได้
+build/
+
+# ข้ามไฟล์ Backup ของการตั้งค่า sdkconfig
+sdkconfig.old
+
+# ข้ามโฟลเดอร์ไลบรารีที่จัดการโดย Component Manager (ถ้ามี)
+managed_components/
+
+# =========================
+# IDEs & Editors
+# =========================
+# ข้ามการตั้งค่าส่วนตัวของ VS Code (ถ้าใช้)
+.vscode/
+*.code-workspace
+
+# =========================
+# OS Generated Files
+# =========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Temp Files
+# =========================
+*.swp
+*.swo
+*~
